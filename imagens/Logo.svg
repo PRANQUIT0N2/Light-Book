@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="20 10 20 30" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Feixe de luz -->
+  <path d="M25 20 L30 30 L35 20" fill="#ffffcc" stroke="#dddd88" stroke-width="1"></path>
+
+  <!-- Lâmpada minimalista -->
+  <circle cx="30" cy="20" r="3" fill="#999"></circle>
+</svg>
